@@ -13,12 +13,12 @@
   font-weight: lighter;
   letter-spacing: 1px;
   text-shadow: none;
-  color: #df9c81;
+  color: #4169E1;
   -webkit-font-smoothing: antialiased;
 }
 .button a:hover {
-  color: #d06c44;
-  border-color: #d06c44;
+  color: #6495ED;
+  border-color: #6495ED;
 }
 /* Icon (alt) */
 
