@@ -7,6 +7,21 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.button a {
+  padding: 10px 20px;
+  border: 1px solid #df9c81;
+  border-radius: 20px;
+  font-size: 0.9em;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  text-shadow: none;
+  color: #df9c81;
+  -webkit-font-smoothing: antialiased;
+}
+.button a:hover {
+  color: #d06c44;
+  border-color: #d06c44;
+}
 /* Icon (alt) */
 
 	html, body, div, span, applet, object,
