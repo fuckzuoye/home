@@ -11,8 +11,7 @@
 .button {
     appearance: none;
     display: inline-block;
-    height: 2.75em;
-    line-height: 2.75em;
+
     background-color: transparent;
     cursor: pointer;
     text-align: center;
