@@ -8,7 +8,7 @@
 */
 
 /* Icon (alt) */
-input[type="submit"], input[type="reset"], input[type="button"], button, .button {
+.button {
     appearance: none;
     display: inline-block;
     height: 2.75em;
