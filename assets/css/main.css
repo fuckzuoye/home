@@ -8,22 +8,20 @@
 */
 
 /* Icon (alt) */
-.button {
-    appearance: none;
-    display: inline-block;
-	
-    background-color: transparent;
-    cursor: pointer;
-    text-align: center;
-    white-space: nowrap;
-    color: rgb(65, 79, 87) !important;
-    transition: background-color 0.2s ease-in-out 0s, border-color 0.2s ease-in-out 0s, color 0.2s ease-in-out 0s;
-    border-radius: 4px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: rgb(200, 204, 207);
-    border-image: initial;
-    text-decoration: none;
+.button a {
+  padding: 10px 20px;
+  border: 1px solid #df9c81;
+  border-radius: 20px;
+  font-size: 0.9em;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  text-shadow: none;
+  color: #df9c81;
+  -webkit-font-smoothing: antialiased;
+}
+.button a:hover {
+  color: #d06c44;
+  border-color: #d06c44;
 }
 
 	html, body, div, span, applet, object,
