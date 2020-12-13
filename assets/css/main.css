@@ -222,7 +222,12 @@
 	}
 
 	p {
+		/*
+		This is a comment
+		
 		margin: 0 0 1.5em 0;
+		
+		*/
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -821,7 +826,7 @@
 
 		}
 
-/* Button */
+/* Button 
 
 	input[type="submit"],
 	input[type="reset"],
@@ -911,6 +916,8 @@
 			pointer-events: none;
 			opacity: 0.5;
 		}
+
+*/
 
 /* Main */
 
