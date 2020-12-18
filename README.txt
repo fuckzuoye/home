@@ -7,6 +7,7 @@ from html5up | @ajlkn
 修改首页按钮button
 修改页脚footter
 添加随机一言
+添加雪花飘飘效果（冬季限时特效）
 
 以后可能会添加：
 天气预报
