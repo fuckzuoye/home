@@ -137,7 +137,7 @@
 		background-position: top left,		center center,		bottom center;
 		background-attachment: fixed,			fixed,				fixed;
 	}
-
+/*
 		body:after {
 			content: '';
 			display: block;
@@ -165,6 +165,7 @@
 		body.is-preload:after {
 			opacity: 1;
 		}
+*/
 
 /* Type */
 
